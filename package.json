@@ -1,0 +1,23 @@
+{
+  "name": "deskcloud",
+  "version": "1.0.0",
+  "description": "Remember making beats with pens in high school and middle school?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadFacedBunny/DeskCloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadFacedBunny/DeskCloud/issues"
+  },
+  "homepage": "https://github.com/SadFacedBunny/DeskCloud#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
